@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+table {
+	margin-top: 10px;
+	width: 100%;
+}
+
+th {
+	background-color: #04AA6D;
+	color: white;
+	padding: 10px;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}
